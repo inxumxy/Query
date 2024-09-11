@@ -1,0 +1,22 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Session files
+sessions/
+
+# Config files
+config.json
+
+# Output files
+query.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
